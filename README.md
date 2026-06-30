@@ -49,6 +49,7 @@ pfSense
 |                |                |                |
 DC01             Windows 10       Ubuntu Desktop   Ubuntu Server
 10.10.20.10      DHCP             DHCP             DHCP
+```
 ---
 
 # Planned Technologies
@@ -71,8 +72,6 @@ DC01             Windows 10       Ubuntu Desktop   Ubuntu Server
 - Kali Linux
 - Vulnerability Assessment
 - Threat Detection
-
-```
 
 ---
 
