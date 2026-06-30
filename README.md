@@ -72,6 +72,8 @@ DC01             Windows 10       Ubuntu Desktop   Ubuntu Server
 - Vulnerability Assessment
 - Threat Detection
 
+```
+
 ---
 
 # Learning Philosophy
