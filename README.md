@@ -36,6 +36,21 @@ The lab is built entirely in VirtualBox and simulates a small enterprise network
 | Ubuntu Server | Linux Server |
 
 ---
+## Current Network
+
+Internet
+   |
+VirtualBox NAT
+   |
+pfSense
+   |
+10.10.20.0/24 Internal Network
+   |
++----------------+----------------+----------------+----------------+
+|                |                |                |
+DC01             Windows 10       Ubuntu Desktop   Ubuntu Server
+10.10.20.10      DHCP             DHCP             DHCP
+---
 
 # Planned Technologies
 
