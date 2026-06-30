@@ -36,8 +36,7 @@ The lab is built entirely in VirtualBox and simulates a small enterprise network
 | Ubuntu Server | Linux Server |
 
 ---
-## Current Network
-
+```text
 Internet
    |
 VirtualBox NAT
